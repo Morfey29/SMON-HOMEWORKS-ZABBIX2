@@ -40,7 +40,8 @@
 
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
-
+![Задание 1-1](https://github.com/Morfey29/SMON-HOMEWORKS-ZABBIX2/blob/main/img/img1.png)
+![Задание 1-2](https://github.com/Morfey29/SMON-HOMEWORKS-ZABBIX2/blob/main/img/img2.png)
  ---
 
 ### Задание 2
@@ -70,7 +71,9 @@
 
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
-
+![Задание 2-3-1](https://github.com/Morfey29/SMON-HOMEWORKS-ZABBIX2/blob/main/img/img3.png)
+![Задание 2-3-2](https://github.com/Morfey29/SMON-HOMEWORKS-ZABBIX2/blob/main/img/img4.png)
+![Задание 2-3-3](https://github.com/Morfey29/SMON-HOMEWORKS-ZABBIX2/blob/main/img/img5.png)
  ---
 
 ### Задание 4
@@ -83,7 +86,7 @@
 
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
-
+![Задание 4](https://github.com/Morfey29/SMON-HOMEWORKS-ZABBIX2/blob/main/img/img6.png)
  ---
 
 ### Задание 5* со звёздочкой
