@@ -42,6 +42,9 @@
 - [ ] Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
 ![Задание 1-1](https://github.com/Morfey29/SMON-HOMEWORKS-ZABBIX2/blob/main/img/img1.png)
 ![Задание 1-2](https://github.com/Morfey29/SMON-HOMEWORKS-ZABBIX2/blob/main/img/img2.png)
+![Задание 1-3](https://github.com/Morfey29/SMON-HOMEWORKS-ZABBIX2/blob/main/img/img7.png)
+![Задание 1-4](https://github.com/Morfey29/SMON-HOMEWORKS-ZABBIX2/blob/main/img/img8.png)
+![Задание 1-5](https://github.com/Morfey29/SMON-HOMEWORKS-ZABBIX2/blob/main/img/img9.png)
  ---
 
 ### Задание 2
