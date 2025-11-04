@@ -46,6 +46,7 @@
 ![Задание 1-4](https://github.com/Morfey29/SMON-HOMEWORKS-ZABBIX2/blob/main/img/img8.png)
 ![Задание 1-5](https://github.com/Morfey29/SMON-HOMEWORKS-ZABBIX2/blob/main/img/img9.png)
 ![Задание 1-6](https://github.com/Morfey29/SMON-HOMEWORKS-ZABBIX2/blob/main/img/img10.png)
+![Задание 1-7](https://github.com/Morfey29/SMON-HOMEWORKS-ZABBIX2/blob/main/img/img11.png)
  ---
 
 ### Задание 2
